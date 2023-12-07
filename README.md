@@ -6,3 +6,5 @@ Estou a aprender a criar sites e agora a gerir repositórios
 
 
 <a href="https://ruisantossi.github.io/html5-css3/exercicios/ex001/index.html">Executar o exercício 001</a>
+
+<a href="https://ruisantossi.github.io/html5-css3/exercicios/ex002/index.html">Executar o exercício 001</a>
